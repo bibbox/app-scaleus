@@ -1,0 +1,9 @@
+{
+		"name": "Scaleus",
+		"short_name": "Scaleus",
+		"version": "v1.0",
+		"description": "V1.0 Semantic Web Services Integration for Biomedical Applications",
+		"catalogue_url": "",
+		"application_url": "https://github.com/bioinformatics-ua/scaleus",
+		"tags": ["Data Management", "Link Date"]
+}
